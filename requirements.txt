@@ -33,6 +33,7 @@ dataclasses-json==0.5.14
 demo-nodes-py==0.20.5
 Deprecated==1.2.14
 diagnostic-msgs==4.2.4
+distro==1.9.0
 domain-coordinator==0.10.0
 example-interfaces==0.9.3
 examples-rclpy-executors==0.15.2
@@ -55,6 +56,7 @@ idna==3.8
 image-geometry==3.2.1
 importlib_metadata==8.0.0
 interactive-markers==2.3.2
+jiter==0.5.0
 laser-geometry==2.4.0
 launch==1.0.6
 launch-ros==0.19.7
@@ -73,6 +75,7 @@ mypy-extensions==1.0.0
 nav-msgs==4.2.4
 nest-asyncio==1.6.0
 numpy==1.26.4
+openai==1.42.0
 opentelemetry-api==1.26.0
 opentelemetry-exporter-otlp==1.26.0
 opentelemetry-exporter-otlp-proto-common==1.26.0
@@ -179,6 +182,7 @@ tf2-tools==0.25.7
 theora-image-transport==2.5.2
 tomli==2.0.1
 topic-monitor==0.20.5
+tqdm==4.66.5
 trajectory-msgs==4.2.4
 turtlesim==1.4.2
 typing-inspect==0.9.0
