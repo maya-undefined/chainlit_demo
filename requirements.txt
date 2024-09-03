@@ -70,7 +70,7 @@ literalai==0.0.607
 logging-demo==0.20.5
 map-msgs==2.1.0
 marshmallow==3.22.0
-message-filters==4.3.4
+message-filters==4.3.5
 mypy-extensions==1.0.0
 nav-msgs==4.2.4
 nest-asyncio==1.6.0
